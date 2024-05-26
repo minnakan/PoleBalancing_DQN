@@ -71,8 +71,6 @@ cd rrt-visualization
 
 The performance of the DQL agent was measured by episodic returns over the training period. The following figures show the results:
 
-![Episodic returns with 0.5 smoothing](./Extras/ER_05.png)
-_Figure 1: Episodic returns with 0.5 smoothing_
+![Episodic returns with 0.5 smoothing](./Extras/ER_05.png "Figure 1: Episodic returns with 0.5 smoothing")
 
-![Episodic returns with 0.9 smoothing](./Extras/ER_09.png)
-_Figure 1: Episodic returns with 0.9 smoothing_
+![Episodic returns with 0.9 smoothing](./Extras/ER_09.png "Figure 2: Episodic returns with 0.9 smoothing")
