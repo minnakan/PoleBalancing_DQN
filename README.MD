@@ -57,8 +57,8 @@ More details at [Tensorboard Documentation.](https://pytorch.org/tutorials/inter
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-username/rrt-visualization.git
-cd rrt-visualization
+git clone https://github.com/minnakan/PoleBalancing_DQN.git
+cd PoleBalancing_DQN
 ```
 
 ### Step 2: Run the implementation
